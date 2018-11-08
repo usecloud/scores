@@ -10,6 +10,6 @@ echo 'Goodbye'
 }
     stage('welcomeback')
 {
-echo 'Goodbye'
+echo 'weclome back'
 }
 }
